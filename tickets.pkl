@@ -1,0 +1,10 @@
+���      }�(�Single-Day Pass��__main__��Ticket���)��}�(�_ticket_type�h�_price�M�	_validity��1 day��_description��Access to the park for one day��
+_restrictions��Valid only on selected date��	_discount�G        ub�Two-Day Pass�h)��}�(hhhM�h	�2 days�h�+Access to the park for two consecutive days�h
+�#Cannot be split over multiple trips�hG        ub�Annual Membership�h)��}�(hhhM0h	�1 year�h�Unlimited access for one year�h
+�Must be used by the same person�hG@$      ub�Child Ticket�h)��}�(hhhK�h	h
+h�*Discounted ticket for children (ages 3-12)�h
+�<Valid only on selected date, must be accompanied by an adult�hG@.      ub�Group Ticket (10+)�h)��}�(hh!hK�h	h
+h�%Special rate for groups of 10 or more�h
+�;Must be booked in advance, 20% off for groups of 10 or more�hG@4      ub�VIP Experience Pass�h)��}�(hh&hM&h	h
+h�8Includes expedited access and reserved seating for shows�h
+�2Limited availability, must be purchased in advance�hG@      ubu.

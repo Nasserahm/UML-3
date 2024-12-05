@@ -1,0 +1,8 @@
+���      }�(�ORD001��__main__��Order���)��}�(�	_order_id�h�_user_id��cust01��_tickets�]�h�Ticket���)��}�(�_ticket_type��	Concert A��_price�G@I      �	_validity��
+2024-11-30��_description��Concert A Description��
+_restrictions��Age 18+��	_discount�G        uba�_order_date��datetime��datetime���C
+�&����R��_status��	Completed�ub�ORD002�h)��}�(hh#h�admin01�h
+]�h
+)��}�(h�	Concert B�hG@R�     h�
+2024-12-15�h�Concert B Description�hhhG        ubahhC
+�&>���R�h!�Pending�ubu.
